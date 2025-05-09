@@ -1,0 +1,7 @@
+{
+  "name": "basic-auth-workers",
+  "main": "src/index.js",
+  "compatibility_date": "2025-05-08",
+  "keep_vars": true,
+  "workers_dev": false
+}
